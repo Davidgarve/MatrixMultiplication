@@ -1,0 +1,1 @@
+JMH S 44 org.example.MatrixMultiplicationBenchmarking S 81 org.example.jmh_generated.MatrixMultiplicationBenchmarking_multiplication_jmhTest S 14 multiplication S 11 AverageTime E A 1 1 1 E I 1 5 T 4 1 ms E I 2 10 T 4 1 ms E I 1 1 E E E E E M 1 1 n 6 8 xAAMAA== 8 1AAMAA== 8 xAAMAADA 8 yAAMAADA 8 1AAMAADA 16 xAAMAADAwAA===== U 12 MILLISECONDS E E 
